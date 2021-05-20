@@ -3,6 +3,6 @@ package unitTesting;
 public class Testing {
 
     public static void display(String param){
-        System.out.println("Your param: " + param);
+        System.out.println("Your parameter: " + param);
     }
 }
